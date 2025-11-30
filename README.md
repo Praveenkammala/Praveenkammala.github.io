@@ -84,4 +84,94 @@ Hosted on **GitHub Pages** using the `gh-pages` branch.
 ---
 
 # 📁 **Project Structure**
+├── public/
+│ ├── praveen_cv.pdf
+│ ├── certificates/*.pdf
+│
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── hooks/
+│ ├── lib/
+│ ├── App.tsx
+│ ├── main.tsx
+│
+├── dist/ # Auto-built by Vite (for gh-pages)
+├── package.json
+├── tsconfig.json
+├── tailwind.config.ts
+├── vite.config.ts
+└── README.md
+
+---
+
+# ⚙️ **Installation & Development Setup**
+
+### Clone the repo
+```bash
+# ⚙️ Installation & Development Setup
+
+### Clone the repo
+```bash
+git clone https://github.com/Praveenkammala/Praveenkammala.github.io
+cd Praveenkammala.github.io
+
+npm install
+npm run dev
+npm run build
+🚀 Deployment (GitHub Pages)
+Automatic Deployment (Recommended)
+
+Every push to the main branch automatically builds and deploys the site through GitHub Actions.
+
+Manual Deployment (Optional)
+npm run build
+git checkout gh-pages
+# copy dist → root
+git add .
+git commit -m "Deploy"
+git push origin gh-pages --force
+📬 Contact Information
+
+📧 Email:
+praveenkammala01@gmail.com
+
+🌐 Portfolio:
+https://Praveenkammala.github.io
+
+💼 LinkedIn:
+(Add your link here)
+
+🐙 GitHub:
+https://github.com/Praveenkammala
+
+⭐ Support This Project
+
+If you like this project or find it useful:
+⭐ Please star the repository!
+Your support is always appreciated.
+
+📌 Extras (Optional Add-ons Available)
+
+I can add:
+
+Custom banner image
+
+Build / license badges
+
+GIF demo preview
+
+SEO optimization (meta tags, og:image, sitemap.xml)
+
+Professional README styling
+
+Contact form backend (Formspree / EmailJS)
+
+Just tell me: "Add more professional README features" or "Add SEO"
+
+---
+
+If you want me to generate a **full README.md file automatically**, I can also give you a ready-made complete version.
+
+
 
