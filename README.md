@@ -12,20 +12,6 @@
 
 ---
 
-# 📸 **Screenshots**
-> *(Replace these placeholder links with your own screenshots later)*
-
-### 🏠 Home / Hero Section  
-![Home Screenshot](https://via.placeholder.com/1200x500?text=Hero+Section)
-
-### 🧑‍💻 Featured Projects  
-![Projects Screenshot](https://via.placeholder.com/1200x500?text=Projects+Section)
-
-### 📱 Responsive Mobile View  
-![Mobile Screenshot](https://via.placeholder.com/400x800?text=Mobile+View)
-
----
-
 # 🚀 **About This Project**
 
 This is my personal portfolio website designed to showcase:
@@ -108,42 +94,41 @@ Hosted on **GitHub Pages** using the `gh-pages` branch.
 # ⚙️ **Installation & Development Setup**
 
 ### Clone the repo
-```bash
 # ⚙️ Installation & Development Setup
 
 ### Clone the repo
-```bash
+```bash`
 git clone https://github.com/Praveenkammala/Praveenkammala.github.io
 cd Praveenkammala.github.io
 
-npm install
-npm run dev
-npm run build
+```bash npm install```
+```npm run dev```
+```npm run build```
 🚀 Deployment (GitHub Pages)
 Automatic Deployment (Recommended)
 
 Every push to the main branch automatically builds and deploys the site through GitHub Actions.
 
 Manual Deployment (Optional)
-npm run build
+```npm run build```
 git checkout gh-pages
 # copy dist → root
-git add .
-git commit -m "Deploy"
-git push origin gh-pages --force
+```git add .```
+```git commit -m "Deploy"```
+```git push origin gh-pages --force```
 📬 Contact Information
 
 📧 Email:
-praveenkammala01@gmail.com
+```praveenkammala01@gmail.com```
 
 🌐 Portfolio:
-https://Praveenkammala.github.io
+```https://Praveenkammala.github.io```
 
 💼 LinkedIn:
-(Add your link here)
+```https://www.linkedin.com/in/praveen-kammala/```
 
 🐙 GitHub:
-https://github.com/Praveenkammala
+```https://github.com/Praveenkammala```
 
 ⭐ Support This Project
 
@@ -163,15 +148,7 @@ GIF demo preview
 
 SEO optimization (meta tags, og:image, sitemap.xml)
 
-Professional README styling
 
-Contact form backend (Formspree / EmailJS)
-
-Just tell me: "Add more professional README features" or "Add SEO"
-
----
-
-If you want me to generate a **full README.md file automatically**, I can also give you a ready-made complete version.
 
 
 
