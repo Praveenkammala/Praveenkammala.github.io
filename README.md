@@ -116,15 +116,4 @@ git checkout main
 - **LinkedIn:** https://www.linkedin.com/in/praveen-kammala/  
 - **GitHub:** https://github.com/Praveenkammala
 
----
-
-## Want improvements?
-
-I can:
-- Add screenshots or a GIF demo  
-- Add SEO meta tags and sitemap.xml  
-- Add a working contact form (Formspree / EmailJS)  
-- Improve README with badges and project details
-
-Tell me which and I’ll update it.
 
