@@ -1,0 +1,5 @@
+---------- Deploy script started at 30-11-25 16:54:57.71 
+Current dir: D:\BTech\Projects\Portfolio_website 
+ 
+[RUN]  
+[OK]  
